@@ -1,1 +1,1 @@
-# andoroid-basic-master Andy
+# android-basic-master apps of Andy
