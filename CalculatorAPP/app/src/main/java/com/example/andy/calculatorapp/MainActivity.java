@@ -49,11 +49,24 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.btn_equals:
                 //System.out.println(eval("2^3 - 3 + 1 + 3 * ((4+4*4)/2) / 5 + -5"));
-                txtResult.setText(""+eval(txtResult.getText().toString()));
+                //txtResult.setText(""+eval(txtResult.getText().toString()));
+                txtResult.setText(decimales(eval(txtResult.getText().toString())));
                 break;
             case R.id.btn_delete:
                 txtResult.setText(backspace(txtResult.getText().toString()));
                 break;
+        }
+    }
+
+    public static String decimales(Double res){
+        double resultado = res;
+        int p_ent = (int)resultado;
+        double p_dec = resultado - p_ent;
+        if(p_dec>0) {
+            return ""+resultado;
+        }
+        else {
+            return ""+p_ent;
         }
     }
 
