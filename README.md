@@ -8,14 +8,14 @@
 		<th>ListCountry</th>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-basic/master/screens/calculator.png"/></td>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-basic/master/screens/listcountry.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-basic/master/Screens/calculator.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-basic/master/Screens/listcountry.png"/></td>
 	</tr>
 	<tr>
 		<th>TwitterList</th>		
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/tiveor/android-basic/master/screens/twitterlist.png"/></td>
+		<td><img src="https://raw.githubusercontent.com/tiveor/android-basic/master/Screens/twitterlist.png"/></td>
 	</tr>
 </table>
 
