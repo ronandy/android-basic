@@ -10,13 +10,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/user"
-        android:hint="Usuario twitter" />
+        android:hint="Usuario twitter *" />
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/count"
-        android:hint="Cantidad de tweets" />
+        android:hint="Cantidad de tweets **" />
 
     <Button
         android:layout_width="wrap_content"
@@ -24,5 +24,18 @@
         android:text="Mostrar Tweets"
         android:id="@+id/btn_json"
         android:onClick="loadTweetsJSON" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="* Usuario por defecto: ronandy"
+        android:id="@+id/lejend1"
+        android:paddingTop="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="** Cantidad de Tweets: 3"
+        android:id="@+id/lejend2" />
 
 </LinearLayout>
