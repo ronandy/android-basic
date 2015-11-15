@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Curso Android\android-basic-andy\ListCountry\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Curso Android\android-basic-andy\ListCountry\app\build\intermediates\pre-dexed\debug\classes-d8e0415461c96f01bce910665335638495a117d2.jar" />
+    </item>
+    <item
+        jar="D:\Curso Android\android-basic-andy\ListCountry\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Curso Android\android-basic-andy\ListCountry\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-986d78e6d03f1d72858b21cfa149790d9884483c.jar" />
+    </item>
+    <item
+        jar="D:\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Curso Android\android-basic-andy\ListCountry\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-72990f9e4f10567a3643dbdc4a3ec9dec0c8e4c9.jar" />
+    </item>
+    <item
+        jar="D:\Curso Android\android-basic-andy\ListCountry\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Curso Android\android-basic-andy\ListCountry\app\build\intermediates\pre-dexed\debug\classes-1e45287cd159aba789382ec12fe93e7319d61575.jar" />
+    </item>
+
+</items>
